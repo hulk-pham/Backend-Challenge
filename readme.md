@@ -30,9 +30,7 @@
 
 ### 🚣 Checkpoint 5: Linux Architect
 - 🏁 File permission
-- 🏁 Top linux command: nano, top, ls,...
 - 🏁 Bash scripts
-- 🏁 Termial usage
 
 ---
 ## 🚩 Tier 1: Basic Backend Background
@@ -54,7 +52,8 @@
 - 🏁 Resource Naming
 - 🏁 HTTP Status Code
 - 🏁 HATEOAS
-- 🏁 Swagger and Postman
+- 🏁 Web Hooks
+- 🏁 OpenAPI
 
 ### 🚣 Checkpoint 3: Authentication and Authorization
 - 🏁 JWT and access token
@@ -67,6 +66,12 @@
 - 🏁 MVC
 - 🏁 SOA
 - 🏁 Clean Architect
+
+### 🚣 Checkpoint 5: Tools
+- 🏁 Postman/Swagger
+- 🏁 VSCode/Webstorm
+- 🏁 MySQL Workbench/Table Plus/PgAdmin
+- 🏁 Termial usage command: nano, top, ls,...
 
 ---
 ## 🚩 Tier 2: Javascript Basic
