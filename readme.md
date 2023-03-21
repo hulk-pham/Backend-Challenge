@@ -38,11 +38,11 @@
 ### 🚣 Checkpoint 1: Database
 - 🏁 ERD and DB design
 - 🏁 Nomalization
-- 🏁 SQL
+- 🏁 SQL Basic, Function, Trigger
 - 🏁 MySQl/PostgresQL/SQL Server
 - 🏁 ACID
 - 🏁 Transaction
-- 🏁 n+1 Problem
+- 🏁 N+1 Problem
 
 ### 🚣 Checkpoint 2: RESTful API 
 - 🏁 JSON
@@ -60,6 +60,7 @@
 - 🏁 Another authentication method: OAuth2, SSO, Basic, Session, Keberos, OpenID
 - 🏁 RBAC
 - 🏁 Design role & permission DB
+- 🏁 Social Login: Google, Fb, Apple
 
 ### 🚣 Checkpoint 4: Basic Architecture
 - 🏁 Dependency Injection, IoC
@@ -72,6 +73,7 @@
 - 🏁 VSCode/Webstorm
 - 🏁 MySQL Workbench/Table Plus/PgAdmin
 - 🏁 Termial usage command: nano, top, ls,...
+- 🏁 Google Chrome Inspector
 
 ---
 ## 🚩 Tier 2: Javascript Basic
@@ -100,24 +102,12 @@
 - 🏁 Regex
 - 🏁 Closure
 
-### 🚣 Checkpoint 3: DOM, Event
-- 🏁 DOM tree
-- 🏁 JS DOM Manipulate
-- 🏁 Event
-- 🏁 Script: async, defer
-- 🏁 Shadow DOM
-- 🏁 Web Component
-
 ---
 ## 🚩 Tier 3: Javascript Advance
 
 ### 🚣 Checkpoint 1: Web API
-- 🏁 Geolocation API
 - 🏁 Localstorage and Session Storage
-- 🏁 History API
-- 🏁 Worker API
-- 🏁 Web Socket
-- 🏁 Notification API
+- 🏁 WebSocket, SSE, Long-polling
 
 ### 🚣 Checkpoint 2: Convention
 - 🏁 Code convention
@@ -133,20 +123,6 @@
 - 🏁 npm
 - 🏁 yarn
 - 🏁 pnpm
-
-### 🚣 Checkpoint 5: Build/styling tool
-- 🏁 webpack
-- 🏁 vite
-- 🏁 rollup
-- 🏁 Prettier
-- 🏁 ESLint, husky
-- 🏁 Code convention
-
-### 🚣 Checkpoint 6: Use case
-- 🏁 Upload file
-- 🏁 Call API, Ajax
-- 🏁 Popup and window method
-- 🏁 Indexed DB
 
 ---
 ## 🚩 Tier 4: NodeJS
@@ -204,7 +180,7 @@
 - 🏁 Modeling
 - 🏁 RDMS: Knex, Sequelize, TypeORM
 - 🏁 NoSQL: Mongoose, Prisma
-- 🏁 DB migration
+- 🏁 DB migration: db-migrate
 - 🏁 DB indexed
 
 ### 🚣 Checkpoint 2: Common NoSQL DB
@@ -265,6 +241,13 @@
 - 🏁 RabbitMQ
 - 🏁 MQTT
 - 🏁 Kafka
+
+### 🚣 Checkpoint 10: Misc
+- 🏁 Localization: i18n
+- 🏁 Email: Sendgrid, Mailgun
+- 🏁 Payment: Stripe, Paypal
+- 🏁 Excel: xlsx.js
+- 🏁 Headless CMS: Strapi.js
 
 ---
 ## 🚩 Tier 8: System Design
@@ -364,7 +347,7 @@
 - 🏁 Code Pineline/Code Commit
 
 ---
-## 🚩 Tier 11: Another
+## 🚩 Tier 11: Another technical aspect
 ### 🚣 Checkpoint 1: Security 
 - 🏁 SHA, Md5, bcrypt
 - 🏁 SSL Handshake
